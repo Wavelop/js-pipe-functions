@@ -1,0 +1,23 @@
+{
+  "name": "js-pipe-functions",
+  "version": "1.0.0",
+  "description": "Simple functions to call a series of operation.",
+  "main": "js-pipe-functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Capo93/js-pipe-functions.git"
+  },
+  "keywords": [],
+  "author": "@Capo93",
+  "license": "MPL",
+  "bugs": {
+    "url": "https://github.com/Capo93/js-pipe-functions/issues"
+  },
+  "homepage": "https://github.com/Capo93/js-pipe-functions#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
