@@ -1,4 +1,4 @@
-const { pipe, voidPipe } = require('../js-pipe-functions');
+const { pipe, validationPipe } = require('../js-pipe-functions');
 
 describe('Function "pipe" test', () => {
 
@@ -40,7 +40,7 @@ describe('Function "voidPipe" test', () => {
         }
       });
 
-      pipe = voidPipe(
+      pipe = validationPipe(
         isOdd,
         gt10,
       );
