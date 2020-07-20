@@ -18,7 +18,7 @@ describe('Function "pipe" test', () => {
   });
 });
 
-describe('Function "voidPipe" test', () => {
+describe('Function "validationPipe" test', () => {
   describe('Pipe number validation: n is odd, n > 10', () => {
 
     let n;

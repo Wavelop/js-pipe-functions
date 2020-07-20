@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Capo93/js-pipe-functions.git"
+    "url": "git+https://github.com/Wavelop/js-pipe-functions.git"
   },
   "keywords": [],
-  "author": "@Capo93",
+  "author": "@Wavelop",
   "license": "MPL",
   "bugs": {
-    "url": "https://github.com/Capo93/js-pipe-functions/issues"
+    "url": "https://github.com/Wavelop/js-pipe-functions/issues"
   },
-  "homepage": "https://github.com/Capo93/js-pipe-functions#readme",
+  "homepage": "https://github.com/Wavelop/js-pipe-functions#readme",
   "devDependencies": {
-    "jest": "^26.0.1"
+    "jest": "^26.1.0"
   }
 }
