@@ -112,6 +112,7 @@ The *reducer* function takes four arguments:
 - Current Value (cur)
 - Current Index (idx)
 - Source Array (src)
+
 Your reducer function's returned value is assigned to the *accumulator*, whose value is remembered across each iteration throughout the array, and ultimately becomes the final, *single resulting value*.
 
 ```
